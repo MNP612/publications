@@ -1,4 +1,4 @@
-1)	Marvin N. Pohl, E. Muchová, R. Seidel, H. Ali, Š. Sršeň, I. Wilkinson, B. Winter, and P. Slavíček “Do water’s electrons care of electrolytes?”. Chem. Sci. (2019) [doi:10.1039/C8SC03381A](doi.org/10.1039/C8SC03381A)
+1)	Marvin N. Pohl, E. Muchová, R. Seidel, H. Ali, Š. Sršeň, I. Wilkinson, B. Winter, and P. Slavíček “Do water’s electrons care of electrolytes?”. Chem. Sci. (2019) [doi:10.1039/C8SC03381A](https://doi.org/10.1039/C8SC03381A)
 
 2)	Marvin N. Pohl, C. Richter, E. Lugovoy, R. Seidel, P. Slavíček, E. F. Aziz, B. Abel, B. Winter, and U. Hergenhahn “Sensitivity of Electron Transfer Mediated Decay to Ion Pairing”. J. Phys. Chem. B (2017). doi:10.1021/acs.jpcb.7b06061
 
