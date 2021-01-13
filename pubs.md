@@ -1,8 +1,8 @@
 1)	Marvin N. Pohl, E. Muchová, R. Seidel, H. Ali, Š. Sršeň, I. Wilkinson, B. Winter, and P. Slavíček “Do water’s electrons care of electrolytes?”. Chem. Sci. (2019) [doi:10.1039/C8SC03381A](https://doi.org/10.1039/C8SC03381A)
 
-2)	Marvin N. Pohl, C. Richter, E. Lugovoy, R. Seidel, P. Slavíček, E. F. Aziz, B. Abel, B. Winter, and U. Hergenhahn “Sensitivity of Electron Transfer Mediated Decay to Ion Pairing”. J. Phys. Chem. B (2017). [doi:10.1021/acs.jpcb.7b06061](https://doi.org/acs.jpcb.7b06061)
+2)	Marvin N. Pohl, C. Richter, E. Lugovoy, R. Seidel, P. Slavíček, E. F. Aziz, B. Abel, B. Winter, and U. Hergenhahn “Sensitivity of Electron Transfer Mediated Decay to Ion Pairing”. J. Phys. Chem. B (2017). [doi:10.1021/acs.jpcb.7b06061](https://doi.org/10.1021/acs.jpcb.7b06061)
 
-3)	D. Hollas, Marvin N. Pohl, R. Seidel, E. F. Aziz, P. Slavíček, and B. Winter “Aqueous Solution Chemistry of Ammonium Cation in the Auger Time Window”. Scientific Reports (2017). [doi:10.1038/s41598-017-00756-x](https://doi.org/s41598-017-00756-x)
+3)	D. Hollas, Marvin N. Pohl, R. Seidel, E. F. Aziz, P. Slavíček, and B. Winter “Aqueous Solution Chemistry of Ammonium Cation in the Auger Time Window”. Scientific Reports (2017). [doi:10.1038/s41598-017-00756-x](https://doi.org/10.1038/s41598-017-00756-x)
 
 4)	I. Unger, R. Seidel, S. Thürmer, Marvin N. Pohl, E. F. Aziz, L. S. Cederbaum, E. Muchová, P. Slavíček, B. Winter, and N. V. Kryzhevoi “Observation of electron-transfer-mediated decay in aqueous solution”. Nature Chemistry (2017). [doi:10.1038/nchem.2727](https://doi.org/10.1038/nchem.2727)
 
