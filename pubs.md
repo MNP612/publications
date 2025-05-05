@@ -1,3 +1,7 @@
+* W. Yang, C. Lee, S. Saric, **Marvin N. Pohl**, D. M. Neumark "Evaporation and scattering of neon, methane, and water from a dodecane flat liquid jet". J. Chem. Phys. (2023) [doi:10.1063/5.0159796](https://doi.org/10.1063/5.0159796)
+
+* C. Lee, **Marvin N. Pohl**, , I. A. Ramphal, W. Yang, B. Winter, B. Abel, D. M. Neumark "Evaporation and molecular beam scattering from a flat liquid jet". J. Phys. Chem. A (2022) [doi:10.1021/acs.jpca.2c0117](https://doi.org/10.1021/acs.jpca.2c01174)
+
 * **Marvin N. Pohl**, S. Malerz, F. Trinter, C. Lee, C. Kolbeck, I. Wilkinson, S. Thürmer, D. M. Neumark, L. Nahon, I. Powis, G. Meijer, B. Winter,  and U. Hergenhahn "Photoelectron circular dichroism in angle-resolved photoemission from liquid fenchone". Phys. Chem. Chem. Phys. (2022) [doi:10.1039/D1CP05748K](https://doi.org/10.1039/D1CP05748K)
 
 *	S. Malerz, H. Haak, F. Trinter,   A. B. Stephansen, C. Kolbeck, **Marvin Pohl**, U. Hergenhahn, G. Meijer, and B. Winter “A setup for studies of photoelectron circular dichroism from chiral molecules in aqueous solution”. Rev. Sci. Instrum. (2022) [doi:10.1063/5.0072346](https://doi.org/10.1063/5.0072346)
